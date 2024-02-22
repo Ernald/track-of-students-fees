@@ -1,0 +1,8 @@
+Student{id=102, name='Ana', feesPaid=3000.0}
+Student{id=101, name='Miri', feesPaid=3000.0}
+Student{id=201, name='Mateo', feesPaid=3000.0}
+Student{id=202, name='Teuta', feesPaid=3000.0}
+Student{id=302, name='Franko', feesPaid=3000.0}
+Student{id=301, name='Xhoni', feesPaid=3000.0}
+Student{id=401, name='Klea', feesPaid=3000.0}
+Student{id=402, name='Leo', feesPaid=3000.0}
